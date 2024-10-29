@@ -612,7 +612,7 @@ async def start(client, message):
             ]]
             await message.reply_text(
                 text="<b>You are not verified ! 
-Kindly verify to continue\nএক বার verify করলে upto 6 ঘণ্টা পৰ্যন্ত verify করতে লাগবে না আনলিমিটেড মুভি পাবেন !</b>",
+Kindly verify to continue !\nএক বার verify করলে upto 6 ঘণ্টা পৰ্যন্ত verify করতে লাগবে না আনলিমিটেড মুভি পাবেন !</b>",
                 protect_content=True,
                 reply_markup=InlineKeyboardMarkup(btn)
             )
