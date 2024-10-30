@@ -113,7 +113,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 my features Stay here new features coming soon...  
  <b>✯ Maintained by : <a href=https://t.me/botmaster135>☢SARIF☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/hollywoodMoviHDNew>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/+eEMdl7-M_5RmMWNl>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
