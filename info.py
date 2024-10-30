@@ -72,7 +72,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'dnjeirjrdjd') # Public
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MovieSearchAutoGroup')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hollywoodMoviHDNew')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+eEMdl7-M_5RmMWNl')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/c/2040575112/2830')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'BotMaster135') # Support Chat Link Without https:// or @
 
@@ -115,6 +115,7 @@ MAX_B_TN = environ.get("MAX_B_TN", "5")
 PORT = environ.get("PORT", "8080")
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "⚡<b>File uploaded by [Movies Adda™](https://t.me/MovieSearchAutoGroup)</b>⚡\n\n📂<b>File Name:</b> ⪧ {file_caption} \n <b>Size: </b>{file_size}\n\n❤")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
